@@ -120,3 +120,10 @@ fabric.properties
 .idea/material_theme_project_new.xml
 .idea/modules.xml
 .idea/vcs.xml
+/api/dependencies/__pycache__
+/api/__pycache__
+/api/controllers/__pycache__
+/api/models/__pycache__
+api/dependencies/config.py
+.idea/misc.xml
+api/dependencies/config.py
